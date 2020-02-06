@@ -1,5 +1,6 @@
 def StartScherm():
-  print('Dit is het startscherm')
+   startscherm = "Hey there. This is the startscherm. No I do not care that this is a string and not an actual screen"
+   print(startscherm)
 def LevelOne():
   pass
 def LevelTwo():
