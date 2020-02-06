@@ -1,5 +1,5 @@
 def StartScherm():
-  pass
+  print('Dit is het startscherm')
 def LevelOne():
   pass
 def LevelTwo():
